@@ -1,4 +1,4 @@
-package abstractfactorypattern.example2;
+package creationalpatterns.abstractfactorypattern.example2;
 
 public interface HollywoodMovieInterface {
 

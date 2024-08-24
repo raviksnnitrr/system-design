@@ -1,4 +1,4 @@
-package abstractfactorypattern;
+package creationalpatterns.abstractfactorypattern;
 
 public class FactoryProducer {
 
